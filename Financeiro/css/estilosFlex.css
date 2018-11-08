@@ -1,0 +1,22 @@
+.divImg{
+    position: absolute;
+    width: 118px;
+    height: 158px;
+    border-width: 3px;
+    border-radius: 2px;
+
+}
+
+/*
+    Modelo de layout baseado em Flexbox CSS3
+    display: flex ->
+*/
+
+.divLinha{
+    flex-direction: row;
+}
+
+.divColuna{
+    flex-direction: column;
+}
+

@@ -1,0 +1,25 @@
+
+a	php:S1192""LDefine a constant instead of duplicating this literal "dt_admissao" 3 times.(ø¢ä
+c	php:S1192"NDefine a constant instead of duplicating this literal "dt_nascimento" 4 times.(›ô¹ó
+3php:S125"Remove this commented out code.(Öå
+c	php:S1192&"IDefine a constant instead of duplicating this literal "complend" 4 times.(ÂÚÎşüÿÿÿÿ
+a	php:S1192$"GDefine a constant instead of duplicating this literal "numend" 5 times.(Â‘ èıÿÿÿÿ
+`	php:S1192"KDefine a constant instead of duplicating this literal "identidade" 4 times.(À¥™´
+a	php:S1192)"GDefine a constant instead of duplicating this literal "estado" 4 times.(·±Ò»øÿÿÿÿ
+_	php:S1192+"JDefine a constant instead of duplicating this literal "telefone2" 4 times.(¯Öô 
+c	php:S1192"IDefine a constant instead of duplicating this literal "situacao" 4 times.(Èş­Çùÿÿÿÿ
+a	php:S1192("GDefine a constant instead of duplicating this literal "cidade" 4 times.(Ç£í›üÿÿÿÿ
+d	php:S1192"JDefine a constant instead of duplicating this literal "cart_prof" 4 times.(•™•Õÿÿÿÿÿ
+8php:S125;"Remove this commented out code.(”öãÆøÿÿÿÿ
+`	php:S1192."KDefine a constant instead of duplicating this literal "descontado" 4 times.(ãúëç
+]	php:S1192!"HDefine a constant instead of duplicating this literal "n_benef" 4 times.(Áäõ»
+a	php:S1192'"GDefine a constant instead of duplicating this literal "bairro" 4 times.(ÿĞ®çøÿÿÿÿ
+c	php:S1192$"IDefine a constant instead of duplicating this literal "endereco" 3 times.(Â‘ èıÿÿÿÿ
+d	php:S1192"JDefine a constant instead of duplicating this literal "matricula" 6 times.(öåîÕşÿÿÿÿ
+\	php:S1192-"GDefine a constant instead of duplicating this literal "jornal" 4 times.(¿ì‚²
+^	php:S1192*"IDefine a constant instead of duplicating this literal "telefone" 4 times.(Ï©¤Š
+c	php:S11923"IDefine a constant instead of duplicating this literal "tipoPesq" 4 times.(˜¦êáúÿÿÿÿ
+b	php:S1192"HDefine a constant instead of duplicating this literal "org_exp" 4 times.(“æ¼£ÿÿÿÿÿ
+i	php:S11924"ODefine a constant instead of duplicating this literal "buscaMatricula" 4 times.(ÁèøÙùÿÿÿÿ
+_	php:S1192,"JDefine a constant instead of duplicating this literal "plano_ext" 5 times.(¦Ñ•ó
+d	php:S1192 "JDefine a constant instead of duplicating this literal "profissao" 4 times.(«Íê–ùÿÿÿÿ

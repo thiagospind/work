@@ -1,0 +1,33 @@
+
+b	php:S1192È"GDefine a constant instead of duplicating this literal "bairro" 3 times.(ÿĞ®çøÿÿÿÿ
+b	php:S1192Å"GDefine a constant instead of duplicating this literal "numend" 4 times.(Â‘ èıÿÿÿÿ
+i	php:S1192±"NDefine a constant instead of duplicating this literal "dt_nascimento" 5 times.(ı¸öùÿÿÿÿ
+e	php:S1192Á"JDefine a constant instead of duplicating this literal "profissao" 3 times.(«Íê–ùÿÿÿÿ
+a	php:S1192³"KDefine a constant instead of duplicating this literal "identidade" 5 times.(´¨í
+`	php:S1192Í"JDefine a constant instead of duplicating this literal "plano_ext" 3 times.(¦Ñ•ó
+j	php:S1142•"OReduce the number of returns of this function 4, down to the maximum allowed 3.(°Ÿèşşÿÿÿÿ
+1	php:S2010("Replace "OR" with "||".(¬“ûûÿÿÿÿ
+x	php:S1488©"]Immediately return this expression instead of assigning it to the temporary variable "$data".(Ü¡º¦ÿÿÿÿÿ
+Pphp:S131"7Add a "case default" clause to this "switch" statement.(µáÇßıÿÿÿÿ
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+Z	php:S1126„"EReplace this "if-then-else" statement by a single "return" statement.(ÛŸÍT
+]	php:S1192Î"GDefine a constant instead of duplicating this literal "jornal" 3 times.(¿ì‚²
+b	php:S1192Ã"LDefine a constant instead of duplicating this literal "dt_admissao" 3 times.(ø¢ä
+e	php:S1192À"JDefine a constant instead of duplicating this literal "cart_prof" 3 times.(•™•Õÿÿÿÿÿ
+i	php:S1192®"NDefine a constant instead of duplicating this literal "caixa_inicial" 3 times.(¼ç÷üÿÿÿÿ
+[	php:S1126"EReplace this "if-then-else" statement by a single "return" statement.(¶£ô
+^	php:S1192Â"HDefine a constant instead of duplicating this literal "n_benef" 3 times.(Áäõ»
+b	php:S1192Ê"GDefine a constant instead of duplicating this literal "estado" 3 times.(·±Ò»øÿÿÿÿ
+b	php:S1192É"GDefine a constant instead of duplicating this literal "cidade" 3 times.(Ç£í›üÿÿÿÿ
+|	php:S1488X"bImmediately return this expression instead of assigning it to the temporary variable "$resultado".(†Ë«ÿÿÿÿÿ
+d	php:S1192°"IDefine a constant instead of duplicating this literal "situacao" 5 times.(ïâŠ‹şÿÿÿÿ
+a	php:S1192Ï"KDefine a constant instead of duplicating this literal "descontado" 3 times.(ãúëç
+e	php:S1192¸"JDefine a constant instead of duplicating this literal "matricula" 3 times.(ñò–²ÿÿÿÿÿ
+c	php:S1192´"HDefine a constant instead of duplicating this literal "org_exp" 5 times.(³éÑ“ıÿÿÿÿ
+Iphp:S121v"0Add curly braces around the nested statement(s).(ÎÀÿƒùÿÿÿÿ
+Iphp:S121{"0Add curly braces around the nested statement(s).(ë«„­úÿÿÿÿ
+d	php:S1192Ç"IDefine a constant instead of duplicating this literal "complend" 3 times.(ÂÚÎşüÿÿÿÿ
+y	php:S14882"dImmediately return this expression instead of assigning it to the temporary variable "$data_exibir".(ËçÍÁ
+_	php:S1192Ë"IDefine a constant instead of duplicating this literal "telefone" 3 times.(Ï©¤Š
+`	php:S1192Ì"JDefine a constant instead of duplicating this literal "telefone2" 3 times.(¯Öô 
+}	php:S1488!"cImmediately return this expression instead of assigning it to the temporary variable "$data_mysql".(ÛÏ¡øşÿÿÿÿ

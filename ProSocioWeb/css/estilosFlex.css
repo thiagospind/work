@@ -1,0 +1,39 @@
+.divImg{
+    position: absolute;
+    width: 118px;
+    height: 158px;
+    border-width: 3px;
+    border-radius: 2px;
+
+}
+
+/*
+    Modelo de layout baseado em Flexbox CSS3
+    display: flex ->
+*/
+.container{
+    display: flex;
+    /*
+    flex-direction: row -> Os itens são organizados em linha, da esquerda pra direita
+    flex-direction: column -> Os itens são organizados em colunas, de cima pra baixo
+    */
+    flex-direction: column;
+    /*wrap: Os elementos quebram de linha*/
+    flex-wrap: wrap;
+    /*
+    justify-content: flex-start -> Itens alinhados no inicio do eixo principal
+    justify-content: space-around -> Itens uniformemente distribuídos ao longo do eixo principal. São atribuidas margens iguais.
+
+    */
+    justify-content: space-around;
+    align-content: flex-start;
+    align-items: stretch;
+}
+
+.divLinha{
+    flex-direction: row;
+}
+
+.divColuna{
+    flex-direction: column;
+}

@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="403d88f9-e3b3-45f8-9f1a-f4815600ca3a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="prosocio.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prosocio.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="131" column="94" lean-forward="true" selection-start-line="131" selection-start-column="94" selection-end-line="131" selection-end-column="94" />
+              <folding>
+                <element signature="e#5839#5845#0#HTML" expanded="true" />
+                <element signature="e#21365#21371#0#HTML" expanded="true" />
+                <element signature="e#26256#26262#0#HTML" expanded="true" />
+                <element signature="e#29211#29217#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jscript.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/jscript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1462">
+              <caret line="86" column="2" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buscaAssociados.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buscaAssociados.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buscaCEP.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/buscaCEP.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="estilos.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/estilos.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3689">
+              <caret line="217" column="23" selection-start-line="217" selection-start-column="16" selection-end-line="217" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conexao.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conexao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verificaSessao.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/verificaSessao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajudantes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajudantes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3978">
+              <caret line="234" column="2" selection-start-line="234" selection-start-column="2" selection-end-line="234" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>font</find>
+      <find>font-family</find>
+      <find>$lista_tarefas</find>
+      <find>24</find>
+      <find>button</find>
+      <find>text-align</find>
+      <find>divcoluna</find>
+      <find>text-align: center;</find>
+      <find>label</find>
+      <find>alert</find>
+      <find>botao</find>
+      <find>matricula</find>
+      <find>overflow</find>
+      <find>id=&quot;matricula&quot;</find>
+      <find>dependentes</find>
+      <find>container</find>
+      <find>containe</find>
+      <find>descontado</find>
+      <find>session_start</find>
+      <find>destr</find>
+      <find>this field</find>
+      <find>utf</find>
+      <find>busca_socios</find>
+      <find>conexao</find>
+      <find>depende</find>
+      <find>alteraso</find>
+      <find>numend</find>
+      <find>index</find>
+      <find>formAssociados</find>
+      <find>caixate</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>font-size: 14px;</replace>
+      <replace>labelMensalidade</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/layoutDIV.html" />
+        <option value="$PROJECT_DIR$/testeLayout.php" />
+        <option value="$PROJECT_DIR$/layoutDIV.php" />
+        <option value="$PROJECT_DIR$/aulaHTML.html" />
+        <option value="$PROJECT_DIR$/estilosFlex.css" />
+        <option value="$PROJECT_DIR$/prosocio_bkp2.php" />
+        <option value="$PROJECT_DIR$/associados.php" />
+        <option value="$PROJECT_DIR$/estilos.css" />
+        <option value="$PROJECT_DIR$/estilos.css" />
+        <option value="C:/PHP/Projetos/AutoComplete/index.php" />
+        <option value="C:/PHP/Projetos/AutoComplete/index2.php" />
+        <option value="$PROJECT_DIR$/scripts/jscript.js" />
+        <option value="C:/Modelos PHP - HTML/cadastro/cadastro.php" />
+        <option value="$PROJECT_DIR$/jquery-validation-1.17.0/dist/jquery.validate.js" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/buscaAssociados.php" />
+        <option value="$PROJECT_DIR$/consultaBanco.php" />
+        <option value="$PROJECT_DIR$/consultaBanco.php" />
+        <option value="$PROJECT_DIR$/ajudantes.php" />
+        <option value="$PROJECT_DIR$/javascript/buscaCEP.js" />
+        <option value="$PROJECT_DIR$/css/estilos.css" />
+        <option value="$PROJECT_DIR$/alteraSocio.php" />
+        <option value="$PROJECT_DIR$/scripts/buscaCEP.js" />
+        <option value="$PROJECT_DIR$/../Financeiro/fechamento.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/verificaSessao.php" />
+        <option value="$PROJECT_DIR$/conexao.php" />
+        <option value="$PROJECT_DIR$/prosocio.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/jquery-validation-1.17.0/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="9009" />
+  <component name="PhpServers">
+    <servers>
+      <server host="PhpStorm 2018.1.6" id="d8f4c42c-3f4b-48cb-bd85-1fd9e40842d1" name="PhpStorm 2018.1.6" port="63342" />
+      <server host="PhpStorm 2018.1.6" id="c3250385-9f31-474f-8cea-f374efdbb8f8" name="PhpStorm 2018.1.6 (1)" port="63343" />
+      <server host="10.55.55.79" id="d8664618-0ba0-47ce-b413-da8f322acb62" name="10.55.55.79" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\Users\00660\PhpstormProjects\ProSocioWeb" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="970" />
+    <option name="width" value="957" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProSocioWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProSocioWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProSocioWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProSocioWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProSocioWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProSocioWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\ProSocioWeb\scripts" />
+      <recent name="C:\Users\00660\PhpstormProjects\HTML" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\ProSocioWeb\css" />
+      <recent name="C:\Users\00660\PhpstormProjects\ProSocioWeb" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.prosocio.php">
+    <configuration name="formulario.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/tarefasBDPost/formulario.php" />
+    <configuration name="prosocio.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/prosocio.php" />
+    <configuration name="tarefas.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/tarefasBD/tarefas.php" />
+    <list>
+      <item itemvalue="JavaScript Debug.formulario.php" />
+      <item itemvalue="JavaScript Debug.prosocio.php" />
+      <item itemvalue="JavaScript Debug.tarefas.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.prosocio.php" />
+        <item itemvalue="JavaScript Debug.tarefas.php" />
+        <item itemvalue="JavaScript Debug.formulario.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="403d88f9-e3b3-45f8-9f1a-f4815600ca3a" name="Default" comment="" />
+      <created>1531743279551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531743279551</updated>
+      <workItem from="1531743280967" duration="3275000" />
+      <workItem from="1531767204443" duration="5693000" />
+      <workItem from="1531919728929" duration="14553000" />
+      <workItem from="1532001021898" duration="33378000" />
+      <workItem from="1532346038462" duration="15632000" />
+      <workItem from="1532435007287" duration="18564000" />
+      <workItem from="1532516940937" duration="44289000" />
+      <workItem from="1532694200625" duration="8185000" />
+      <workItem from="1532721605419" duration="1813000" />
+      <workItem from="1532949510576" duration="19994000" />
+      <workItem from="1533122538091" duration="8576000" />
+      <workItem from="1533215180594" duration="4077000" />
+      <workItem from="1533220304514" duration="21301000" />
+      <workItem from="1533321870543" duration="251000" />
+      <workItem from="1533329047345" duration="925000" />
+      <workItem from="1533330054150" duration="389000" />
+      <workItem from="1533555494039" duration="372000" />
+      <workItem from="1533555868731" duration="24000" />
+      <workItem from="1533555917207" duration="1018000" />
+      <workItem from="1533562864643" duration="15387000" />
+      <workItem from="1533729392853" duration="11347000" />
+      <workItem from="1533841700026" duration="8953000" />
+      <workItem from="1534161029701" duration="424000" />
+      <workItem from="1534189469840" duration="2878000" />
+      <workItem from="1534332576982" duration="23964000" />
+      <workItem from="1534418967760" duration="20758000" />
+      <workItem from="1534765468193" duration="24682000" />
+      <workItem from="1534862893018" duration="20515000" />
+      <workItem from="1535046553344" duration="2836000" />
+      <workItem from="1535389539781" duration="1212000" />
+      <workItem from="1535486736267" duration="5564000" />
+      <workItem from="1535648876842" duration="5401000" />
+      <workItem from="1535659436746" duration="702000" />
+      <workItem from="1535715798529" duration="9809000" />
+      <workItem from="1535742751037" duration="6292000" />
+      <workItem from="1536065756235" duration="565000" />
+      <workItem from="1536072662304" duration="3641000" />
+      <workItem from="1536267792154" duration="356000" />
+      <workItem from="1537207933759" duration="4668000" />
+      <workItem from="1539612248051" duration="2010000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="374273000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15245202" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="SonarQube" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.22766885" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="7" weight="0.3407325" />
+      <window_info anchor="bottom" id="Duplicates" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/alteraSocio.php</url>
+          <line>106</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/alteraSocio.php</url>
+          <line>91</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/alteraSocio.php</url>
+          <line>26</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/prosocio.php</url>
+          <line>73</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/prosocio.php</url>
+          <line>6</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/scripts/buscaCEP.js</url>
+          <line>44</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="106" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JavascriptDebugType">
+        <watch expression="$conexao" language="JavaScript" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>$conexao</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/startbootstrap-freelancer-gh-pages/index.html" />
+    <entry file="file://$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/css/freelancer.css" />
+    <entry file="file://$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/vendor/bootstrap/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/vendor/bootstrap/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/css/freelancer.min.css" />
+    <entry file="file://$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/index.html" />
+    <entry file="file://$PROJECT_DIR$/testeLayout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/vendor/font-awesome/css/font-awesome.css" />
+    <entry file="file://$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/vendor/font-awesome/css/font-awesome.min.css" />
+    <entry file="file://$PROJECT_DIR$/prosocio_bkp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="72" column="25" selection-start-line="60" selection-start-column="24" selection-end-line="72" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prosocio_bkp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="45" column="47" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estilosFlex.css" />
+    <entry file="file://$PROJECT_DIR$/aulaHTML.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="239" column="9" selection-start-line="239" selection-start-column="9" selection-end-line="239" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estilos.css" />
+    <entry file="file://$PROJECT_DIR$/javascript/bootbox.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="148" selection-start-line="5" selection-start-column="148" selection-end-line="5" selection-end-column="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/PHP/jquerytest/jquery-3.3.1.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/jquery-ui.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="8" column="16353" selection-start-line="8" selection-start-column="16353" selection-end-line="8" selection-end-column="16353" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/PHP/jquerytest/using_jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/PHP/jquerytest/test1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/PHP/Projetos/AutoComplete/index2.php" />
+    <entry file="file://$PROJECT_DIR$/../AutoComplete/busca.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tarefasBDPost/remover.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tarefasBDPost/banco.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/associados.php" />
+    <entry file="file://$PROJECT_DIR$/css/my-login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="244" column="16" selection-start-line="244" selection-start-column="16" selection-end-line="244" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tarefasBDPost/tarefas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="73" column="18" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tarefasBDPost/tabela.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tarefasBDPost/formulario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tarefasBDPost/editar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tarefasBDPost/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Modelos PHP - HTML/cadastro/cadastro.php" />
+    <entry file="file://$PROJECT_DIR$/jquery-validation-1.17.0/dist/jquery.validate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="944">
+          <caret line="363" column="38" selection-start-line="363" selection-start-column="28" selection-end-line="363" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-validation-1.17.0/demo/login/screen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="275" column="10" selection-start-line="275" selection-start-column="10" selection-end-line="275" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consultaBanco.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alteraSocio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/buscaCEP.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/PHP/user-login-session-timeout-logout-in-php/index.php" />
+    <entry file="file://$PROJECT_DIR$/ajudantes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="234" column="2" selection-start-line="234" selection-start-column="2" selection-end-line="234" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3689">
+          <caret line="217" column="23" selection-start-line="217" selection-start-column="16" selection-end-line="217" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Financeiro/fechamento.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buscaAssociados.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conexao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/verificaSessao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/jscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" column="2" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prosocio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="131" column="94" lean-forward="true" selection-start-line="131" selection-start-column="94" selection-end-line="131" selection-end-column="94" />
+          <folding>
+            <element signature="e#5839#5845#0#HTML" expanded="true" />
+            <element signature="e#21365#21371#0#HTML" expanded="true" />
+            <element signature="e#26256#26262#0#HTML" expanded="true" />
+            <element signature="e#29211#29217#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

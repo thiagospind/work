@@ -1,0 +1,11 @@
+
+|	php:S1488X"bImmediately return this expression instead of assigning it to the temporary variable "$resultado".(†Ë«ÿÿÿÿÿ
+Iphp:S121v"0Add curly braces around the nested statement(s).(ÎÀÿƒùÿÿÿÿ
+}	php:S1488!"cImmediately return this expression instead of assigning it to the temporary variable "$data_mysql".(ÛÏ¡øşÿÿÿÿ
+y	php:S14882"dImmediately return this expression instead of assigning it to the temporary variable "$data_exibir".(ËçÍÁ
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+Z	php:S1126„"EReplace this "if-then-else" statement by a single "return" statement.(ÛŸÍT
+Pphp:S131"7Add a "case default" clause to this "switch" statement.(µáÇßıÿÿÿÿ
+1	php:S2010("Replace "OR" with "||".(¬“ûûÿÿÿÿ
+[	php:S1126"EReplace this "if-then-else" statement by a single "return" statement.(¶£ô
+Iphp:S121{"0Add curly braces around the nested statement(s).(ë«„­úÿÿÿÿ
